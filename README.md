@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-007acc?style=for-the-badge)](https://github.com/TomSchimansky/CustomTkinter)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/vaibhav7k/ProYouTubeDownloader/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg?style=for-the-badge)](https://github.com/vaibhav7k/ProYouTubeDownloader/graphs/commit-activity)
 
 A simple, modern, and efficient YouTube video and playlist downloader built with Python, CustomTkinter, and PytubeFix. Designed for speed, reliability, and ease of use.
 
